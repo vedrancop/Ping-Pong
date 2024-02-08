@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PingWorld
+comment0.text=\r\n\ The\ Ping\ World\ is\ where\ Balls\ and\ Paddles\ meet\ to\ play\ pong.\r\n\ \r\n\ @author\ The\ teachers\ \r\n\ @version\ 1\r\n
+comment1.params=gameStarted
+comment1.target=PingWorld(boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PingWorld.\r\n
+comment2.params=
+comment2.target=void\ music()
+comment3.params=
+comment3.target=void\ spawnPlayerPaddle()
+comment4.params=
+comment4.target=void\ spawnRobotPaddle()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
